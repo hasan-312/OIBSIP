@@ -1,0 +1,1001 @@
+Date,Gender,Age,Product,Product Category,Quantity,Price per Unit,Total Amount
+2023-01-01,Male,64,Shoes,Clothing,5,51.84,259.2
+2023-01-01,Female,29,T-Shirt,Clothing,2,153.13,306.26
+2023-01-02,Female,33,Smartwatch,Electronics,1,726.43,726.43
+2023-01-03,Female,41,Football,Sports,3,306.58,919.74
+2023-01-03,Male,36,Face Cream,Beauty,3,74.45,223.35
+2023-01-04,Male,25,Jeans,Clothing,3,105.44,316.32
+2023-01-05,Male,48,Dress,Clothing,5,162.26,811.3
+2023-01-06,Female,38,Dress,Clothing,2,165.61,331.22
+2023-01-06,Female,34,Shampoo,Beauty,5,89.78,448.9
+2023-01-07,Female,40,Skincare Set,Beauty,4,85.32,341.28
+2023-01-08,Male,54,Football,Sports,1,183.07,183.07
+2023-01-09,Female,33,T-Shirt,Clothing,1,218.04,218.04
+2023-01-09,Female,23,Running Shoes,Sports,3,172.19,516.57
+2023-01-10,Male,25,Blender,Home & Kitchen,3,471.77,1415.31
+2023-01-11,Male,42,Smartwatch,Electronics,3,654.4,1963.2
+2023-01-11,Male,35,Tennis Racket,Sports,2,333.24,666.48
+2023-01-12,Male,42,Tablet,Electronics,4,1016.12,4064.48
+2023-01-13,Female,29,Vacuum Cleaner,Home & Kitchen,4,200.34,801.36
+2023-01-14,Male,32,Jeans,Clothing,4,218.64,874.56
+2023-01-14,Male,43,Blender,Home & Kitchen,4,81.73,326.92
+2023-01-15,Female,58,Coffee Maker,Home & Kitchen,3,464.77,1394.31
+2023-01-16,Male,62,Cookware Set,Home & Kitchen,1,326.87,326.87
+2023-01-17,Male,43,Lamp,Home & Kitchen,3,55.56,166.68
+2023-01-17,Male,64,Shoes,Clothing,4,168.18,672.72
+2023-01-18,Male,49,Smartwatch,Electronics,3,1171.67,3515.01
+2023-01-19,Female,27,Shoes,Clothing,4,36.05,144.2
+2023-01-19,Male,33,Tablet,Electronics,5,710.16,3550.8
+2023-01-20,Female,24,Shampoo,Beauty,1,137.13,137.13
+2023-01-21,Female,34,T-Shirt,Clothing,5,206.36,1031.8
+2023-01-22,Male,40,Dumbbells,Sports,2,156.56,313.12
+2023-01-22,Female,43,Face Cream,Beauty,3,44.71,134.13
+2023-01-23,Male,38,Coffee Maker,Home & Kitchen,2,49.9,99.8
+2023-01-24,Male,39,Headphones,Electronics,3,737.7,2213.1
+2023-01-25,Female,24,Lamp,Home & Kitchen,5,242.87,1214.35
+2023-01-25,Female,31,Tennis Racket,Sports,4,333.09,1332.36
+2023-01-26,Female,32,T-Shirt,Clothing,4,33.94,135.76
+2023-01-27,Male,24,Perfume,Beauty,3,126.52,379.56
+2023-01-28,Male,26,Cookware Set,Home & Kitchen,4,41.73,166.92
+2023-01-28,Female,65,Tablet,Electronics,5,288.58,1442.9
+2023-01-29,Male,25,Shampoo,Beauty,4,87.11,348.44
+2023-01-30,Male,40,Dress,Clothing,5,124.62,623.1
+2023-01-30,Female,46,Laptop,Electronics,2,854.27,1708.54
+2023-01-31,Male,35,Dress,Clothing,5,229.35,1146.75
+2023-02-01,Female,48,Tablet,Electronics,1,802.94,802.94
+2023-02-02,Male,47,Laptop,Electronics,1,1148.89,1148.89
+2023-02-02,Female,56,Smartphone,Electronics,1,1069.78,1069.78
+2023-02-03,Male,52,Dumbbells,Sports,3,212.88,638.64
+2023-02-04,Female,35,Skincare Set,Beauty,3,151.74,455.22
+2023-02-05,Female,59,Running Shoes,Sports,3,232.05,696.15
+2023-02-05,Male,56,T-Shirt,Clothing,5,38.07,190.35
+2023-02-06,Female,34,Jacket,Clothing,3,190.33,570.99
+2023-02-07,Female,31,Perfume,Beauty,2,26.13,52.26
+2023-02-07,Female,48,Shoes,Clothing,1,156.64,156.64
+2023-02-08,Female,41,Smartwatch,Electronics,5,872.9,4364.5
+2023-02-09,Female,52,Face Cream,Beauty,1,21.31,21.31
+2023-02-10,Female,61,Headphones,Electronics,3,353.87,1061.61
+2023-02-10,Male,62,Perfume,Beauty,5,165.66,828.3
+2023-02-11,Male,51,Shampoo,Beauty,4,114.77,459.08
+2023-02-12,Male,20,Laptop,Electronics,2,370.91,741.82
+2023-02-13,Male,54,Smartwatch,Electronics,3,859.75,2579.25
+2023-02-13,Male,60,Cookware Set,Home & Kitchen,3,310.48,931.44
+2023-02-14,Male,57,T-Shirt,Clothing,2,135.36,270.72
+2023-02-15,Female,43,Smartwatch,Electronics,2,1173.81,2347.62
+2023-02-16,Male,40,Dumbbells,Sports,4,245.54,982.16
+2023-02-16,Male,61,Smartphone,Electronics,3,512.99,1538.97
+2023-02-17,Female,56,Shampoo,Beauty,3,146.01,438.03
+2023-02-18,Male,32,Yoga Mat,Sports,1,311.91,311.91
+2023-02-18,Female,21,Shoes,Clothing,5,48.8,244.0
+2023-02-19,Male,46,Headphones,Electronics,5,320.61,1603.05
+2023-02-20,Female,39,Tablet,Electronics,1,337.85,337.85
+2023-02-21,Female,42,Jeans,Clothing,5,178.98,894.9
+2023-02-21,Male,30,Headphones,Electronics,2,763.34,1526.68
+2023-02-22,Male,35,Perfume,Beauty,5,115.23,576.15
+2023-02-23,Female,50,Laptop,Electronics,5,1134.85,5674.25
+2023-02-24,Female,33,Face Cream,Beauty,1,141.9,141.9
+2023-02-24,Female,62,Tennis Racket,Sports,4,62.22,248.88
+2023-02-25,Female,59,Blender,Home & Kitchen,5,193.33,966.65
+2023-02-26,Male,61,Perfume,Beauty,5,84.02,420.1
+2023-02-26,Male,19,Jeans,Clothing,4,111.07,444.28
+2023-02-27,Male,52,Shampoo,Beauty,1,123.78,123.78
+2023-02-28,Female,59,Perfume,Beauty,4,161.62,646.48
+2023-03-01,Female,51,Shoes,Clothing,1,90.39,90.39
+2023-03-01,Male,47,Headphones,Electronics,2,707.06,1414.12
+2023-03-02,Male,30,Tennis Racket,Sports,1,280.51,280.51
+2023-03-03,Male,30,Shoes,Clothing,2,115.73,231.46
+2023-03-04,Male,35,Tablet,Electronics,2,284.93,569.86
+2023-03-04,Female,49,Shoes,Clothing,1,129.24,129.24
+2023-03-05,Female,49,Jacket,Clothing,3,32.7,98.1
+2023-03-06,Female,52,Blender,Home & Kitchen,1,472.92,472.92
+2023-03-07,Male,56,Lamp,Home & Kitchen,5,65.17,325.85
+2023-03-07,Male,63,Blender,Home & Kitchen,5,236.07,1180.35
+2023-03-08,Female,46,Smartphone,Electronics,3,682.87,2048.61
+2023-03-09,Female,46,Dress,Clothing,2,246.62,493.24
+2023-03-09,Female,61,Jacket,Clothing,3,58.19,174.57
+2023-03-10,Female,33,Smartwatch,Electronics,5,225.87,1129.35
+2023-03-11,Female,61,Jacket,Clothing,3,22.0,66.0
+2023-03-12,Female,64,Vacuum Cleaner,Home & Kitchen,1,103.12,103.12
+2023-03-12,Male,27,Smartphone,Electronics,3,328.0,984.0
+2023-03-13,Male,47,Face Cream,Beauty,2,117.2,234.4
+2023-03-14,Male,42,Laptop,Electronics,1,341.68,341.68
+2023-03-15,Male,56,Laptop,Electronics,4,122.57,490.28
+2023-03-15,Female,37,Shoes,Clothing,5,210.12,1050.6
+2023-03-16,Male,22,Tennis Racket,Sports,5,140.65,703.25
+2023-03-17,Female,18,Coffee Maker,Home & Kitchen,3,196.24,588.72
+2023-03-17,Female,47,Dumbbells,Sports,1,119.82,119.82
+2023-03-18,Male,20,Jeans,Clothing,4,244.34,977.36
+2023-03-19,Male,62,Smartwatch,Electronics,1,287.13,287.13
+2023-03-20,Female,31,Skincare Set,Beauty,5,162.7,813.5
+2023-03-20,Male,47,T-Shirt,Clothing,1,198.66,198.66
+2023-03-21,Male,21,Vacuum Cleaner,Home & Kitchen,4,65.95,263.8
+2023-03-22,Male,35,Smartwatch,Electronics,3,1185.4,3556.2
+2023-03-23,Male,54,Jeans,Clothing,2,82.41,164.82
+2023-03-23,Female,42,Headphones,Electronics,1,208.44,208.44
+2023-03-24,Female,65,Shoes,Clothing,2,210.74,421.48
+2023-03-25,Female,18,Blender,Home & Kitchen,5,362.14,1810.7
+2023-03-26,Female,63,T-Shirt,Clothing,3,161.96,485.88
+2023-03-26,Female,32,Jacket,Clothing,3,55.88,167.64
+2023-03-27,Male,26,Jeans,Clothing,1,130.05,130.05
+2023-03-28,Female,32,Shoes,Clothing,3,199.53,598.59
+2023-03-28,Female,41,Cookware Set,Home & Kitchen,1,172.7,172.7
+2023-03-29,Female,21,Football,Sports,1,122.86,122.86
+2023-03-30,Female,29,Yoga Mat,Sports,2,21.04,42.08
+2023-03-31,Male,54,Blender,Home & Kitchen,3,111.89,335.67
+2023-03-31,Male,54,Jeans,Clothing,1,221.34,221.34
+2023-04-01,Male,60,Lipstick,Beauty,2,85.1,170.2
+2023-04-02,Male,23,Dress,Clothing,4,246.37,985.48
+2023-04-03,Female,56,Jacket,Clothing,2,111.01,222.02
+2023-04-03,Female,63,Lamp,Home & Kitchen,2,366.14,732.28
+2023-04-04,Male,41,Tablet,Electronics,1,410.11,410.11
+2023-04-05,Female,28,Tennis Racket,Sports,5,140.06,700.3
+2023-04-05,Male,30,Shoes,Clothing,5,63.87,319.35
+2023-04-06,Male,51,Shampoo,Beauty,5,69.0,345.0
+2023-04-07,Male,42,Lipstick,Beauty,2,103.03,206.06
+2023-04-08,Male,24,Running Shoes,Sports,1,347.29,347.29
+2023-04-08,Female,21,Perfume,Beauty,3,122.91,368.73
+2023-04-09,Male,25,Perfume,Beauty,2,43.87,87.74
+2023-04-10,Female,37,Smartwatch,Electronics,2,149.46,298.92
+2023-04-11,Female,46,Shampoo,Beauty,1,31.48,31.48
+2023-04-11,Male,62,Smartphone,Electronics,4,718.81,2875.24
+2023-04-12,Female,63,Blender,Home & Kitchen,2,389.63,779.26
+2023-04-13,Female,27,Skincare Set,Beauty,4,169.87,679.48
+2023-04-14,Male,60,Skincare Set,Beauty,4,12.69,50.76
+2023-04-14,Female,51,Smartphone,Electronics,5,675.04,3375.2
+2023-04-15,Male,43,Laptop,Electronics,1,617.95,617.95
+2023-04-16,Male,58,Vacuum Cleaner,Home & Kitchen,4,338.35,1353.4
+2023-04-16,Male,20,Smartwatch,Electronics,1,715.54,715.54
+2023-04-17,Female,23,Smartwatch,Electronics,5,855.74,4278.7
+2023-04-18,Female,22,Smartphone,Electronics,1,823.89,823.89
+2023-04-19,Male,22,Running Shoes,Sports,2,58.61,117.22
+2023-04-19,Male,64,Blender,Home & Kitchen,4,405.87,1623.48
+2023-04-20,Female,40,Jeans,Clothing,1,48.34,48.34
+2023-04-21,Male,26,Jacket,Clothing,3,180.66,541.98
+2023-04-22,Male,52,Jeans,Clothing,1,115.71,115.71
+2023-04-22,Female,37,Vacuum Cleaner,Home & Kitchen,4,271.51,1086.04
+2023-04-23,Female,59,Skincare Set,Beauty,5,163.56,817.8
+2023-04-24,Male,52,Tablet,Electronics,5,1078.87,5394.35
+2023-04-24,Female,35,Tablet,Electronics,4,999.64,3998.56
+2023-04-25,Female,34,Laptop,Electronics,2,661.16,1322.32
+2023-04-26,Male,41,Skincare Set,Beauty,2,135.16,270.32
+2023-04-27,Female,20,Vacuum Cleaner,Home & Kitchen,5,271.06,1355.3
+2023-04-27,Male,49,Jacket,Clothing,5,220.01,1100.05
+2023-04-28,Female,52,Tablet,Electronics,4,543.05,2172.2
+2023-04-29,Female,55,Smartwatch,Electronics,2,1167.26,2334.52
+2023-04-30,Female,30,Tennis Racket,Sports,5,327.67,1638.35
+2023-04-30,Male,64,Jacket,Clothing,2,190.57,381.14
+2023-05-01,Female,42,Coffee Maker,Home & Kitchen,5,161.33,806.65
+2023-05-02,Male,26,Perfume,Beauty,1,32.38,32.38
+2023-05-03,Male,21,T-Shirt,Clothing,3,216.58,649.74
+2023-05-03,Male,31,Headphones,Electronics,1,281.83,281.83
+2023-05-04,Female,54,Tablet,Electronics,5,1039.69,5198.45
+2023-05-05,Female,51,Skincare Set,Beauty,3,93.43,280.29
+2023-05-05,Male,28,Lamp,Home & Kitchen,3,221.08,663.24
+2023-05-06,Female,58,Shampoo,Beauty,5,163.54,817.7
+2023-05-07,Male,20,Shampoo,Beauty,5,112.65,563.25
+2023-05-08,Female,45,Smartphone,Electronics,2,734.28,1468.56
+2023-05-08,Male,46,Dumbbells,Sports,5,204.39,1021.95
+2023-05-09,Female,26,Lamp,Home & Kitchen,4,204.45,817.8
+2023-05-10,Male,20,Shoes,Clothing,5,200.7,1003.5
+2023-05-11,Female,42,Running Shoes,Sports,4,103.42,413.68
+2023-05-11,Male,51,Skincare Set,Beauty,5,169.61,848.05
+2023-05-12,Male,29,Perfume,Beauty,2,161.98,323.96
+2023-05-13,Male,59,Coffee Maker,Home & Kitchen,4,188.62,754.48
+2023-05-13,Female,26,Lamp,Home & Kitchen,1,372.85,372.85
+2023-05-14,Female,32,Face Cream,Beauty,4,107.45,429.8
+2023-05-15,Male,57,Smartphone,Electronics,2,471.41,942.82
+2023-05-16,Female,42,Jeans,Clothing,4,247.36,989.44
+2023-05-16,Female,22,Running Shoes,Sports,5,28.33,141.65
+2023-05-17,Female,28,Jeans,Clothing,5,78.11,390.55
+2023-05-18,Female,51,Jeans,Clothing,2,139.62,279.24
+2023-05-19,Male,41,Shoes,Clothing,3,140.05,420.15
+2023-05-19,Male,32,Shoes,Clothing,5,155.45,777.25
+2023-05-20,Female,55,Lipstick,Beauty,1,137.78,137.78
+2023-05-21,Female,25,Tennis Racket,Sports,2,225.75,451.5
+2023-05-22,Female,22,Jacket,Clothing,4,158.06,632.24
+2023-05-22,Male,65,Tablet,Electronics,4,158.87,635.48
+2023-05-23,Male,43,Laptop,Electronics,1,514.18,514.18
+2023-05-24,Female,35,Football,Sports,5,96.58,482.9
+2023-05-24,Female,23,Lipstick,Beauty,2,55.11,110.22
+2023-05-25,Female,54,Jacket,Clothing,1,147.5,147.5
+2023-05-26,Female,65,Vacuum Cleaner,Home & Kitchen,5,123.77,618.85
+2023-05-27,Female,30,Cookware Set,Home & Kitchen,2,168.16,336.32
+2023-05-27,Male,45,Cookware Set,Home & Kitchen,4,141.43,565.72
+2023-05-28,Male,22,Tennis Racket,Sports,2,333.01,666.02
+2023-05-29,Female,30,Jeans,Clothing,3,237.27,711.81
+2023-05-30,Female,34,Coffee Maker,Home & Kitchen,2,316.67,633.34
+2023-05-30,Male,57,T-Shirt,Clothing,3,232.64,697.92
+2023-05-31,Male,62,Lamp,Home & Kitchen,2,399.33,798.66
+2023-06-01,Female,49,Blender,Home & Kitchen,3,307.28,921.84
+2023-06-01,Male,46,Lamp,Home & Kitchen,4,33.02,132.08
+2023-06-02,Male,20,Shampoo,Beauty,5,141.33,706.65
+2023-06-03,Female,57,Laptop,Electronics,3,872.74,2618.22
+2023-06-04,Female,51,Face Cream,Beauty,3,114.59,343.77
+2023-06-04,Female,57,Dumbbells,Sports,4,270.94,1083.76
+2023-06-05,Male,44,Football,Sports,3,189.26,567.78
+2023-06-06,Female,30,Tablet,Electronics,1,874.49,874.49
+2023-06-07,Male,62,Laptop,Electronics,4,1128.69,4514.76
+2023-06-07,Male,50,Smartwatch,Electronics,1,513.39,513.39
+2023-06-08,Female,23,Vacuum Cleaner,Home & Kitchen,4,362.82,1451.28
+2023-06-09,Female,41,Coffee Maker,Home & Kitchen,3,253.57,760.71
+2023-06-10,Female,36,Smartwatch,Electronics,1,841.84,841.84
+2023-06-10,Female,33,Skincare Set,Beauty,3,139.69,419.07
+2023-06-11,Female,57,Lamp,Home & Kitchen,4,51.36,205.44
+2023-06-12,Male,45,Vacuum Cleaner,Home & Kitchen,3,333.9,1001.7
+2023-06-12,Male,50,Skincare Set,Beauty,1,48.55,48.55
+2023-06-13,Male,65,Shampoo,Beauty,1,123.91,123.91
+2023-06-14,Male,58,Skincare Set,Beauty,3,89.62,268.86
+2023-06-15,Female,30,Jacket,Clothing,2,197.92,395.84
+2023-06-15,Male,60,Face Cream,Beauty,4,30.98,123.92
+2023-06-16,Female,62,Lipstick,Beauty,4,116.47,465.88
+2023-06-17,Female,42,Blender,Home & Kitchen,3,160.88,482.64
+2023-06-18,Female,59,Face Cream,Beauty,2,155.01,310.02
+2023-06-18,Female,53,Lamp,Home & Kitchen,1,466.34,466.34
+2023-06-19,Female,44,Smartwatch,Electronics,5,1196.04,5980.2
+2023-06-20,Female,55,Dress,Clothing,5,203.08,1015.4
+2023-06-20,Male,24,Tablet,Electronics,3,929.11,2787.33
+2023-06-21,Female,22,Jeans,Clothing,2,69.57,139.14
+2023-06-22,Male,60,Coffee Maker,Home & Kitchen,2,187.92,375.84
+2023-06-23,Male,62,Football,Sports,4,173.68,694.72
+2023-06-23,Female,48,Headphones,Electronics,1,950.72,950.72
+2023-06-24,Male,40,Jeans,Clothing,2,230.44,460.88
+2023-06-25,Female,59,Lamp,Home & Kitchen,5,118.9,594.5
+2023-06-26,Female,27,Smartphone,Electronics,1,1114.6,1114.6
+2023-06-26,Female,49,Perfume,Beauty,1,128.26,128.26
+2023-06-27,Male,60,Vacuum Cleaner,Home & Kitchen,3,317.06,951.18
+2023-06-28,Male,47,Perfume,Beauty,2,43.97,87.94
+2023-06-29,Female,56,Headphones,Electronics,3,161.08,483.24
+2023-06-29,Male,48,Shoes,Clothing,2,150.75,301.5
+2023-06-30,Female,35,Coffee Maker,Home & Kitchen,4,336.21,1344.84
+2023-07-01,Female,53,Face Cream,Beauty,3,45.83,137.49
+2023-07-01,Female,19,Headphones,Electronics,3,712.1,2136.3
+2023-07-02,Male,31,Lamp,Home & Kitchen,5,432.55,2162.75
+2023-07-03,Male,30,Smartphone,Electronics,3,1018.57,3055.71
+2023-07-04,Female,46,Lamp,Home & Kitchen,2,465.86,931.72
+2023-07-04,Male,29,Laptop,Electronics,5,502.47,2512.35
+2023-07-05,Male,56,Football,Sports,3,124.96,374.88
+2023-07-06,Female,19,Jeans,Clothing,3,192.37,577.11
+2023-07-07,Female,49,Dress,Clothing,4,119.16,476.64
+2023-07-07,Female,30,Smartwatch,Electronics,3,196.3,588.9
+2023-07-08,Female,63,Dress,Clothing,1,85.04,85.04
+2023-07-09,Male,44,Coffee Maker,Home & Kitchen,5,226.73,1133.65
+2023-07-09,Female,58,Tennis Racket,Sports,1,116.53,116.53
+2023-07-10,Female,34,Jacket,Clothing,5,96.41,482.05
+2023-07-11,Male,57,Jeans,Clothing,4,87.57,350.28
+2023-07-12,Female,48,Coffee Maker,Home & Kitchen,3,49.5,148.5
+2023-07-12,Female,51,Football,Sports,3,230.24,690.72
+2023-07-13,Female,41,Skincare Set,Beauty,3,111.54,334.62
+2023-07-14,Female,62,T-Shirt,Clothing,5,170.28,851.4
+2023-07-15,Female,52,Jeans,Clothing,3,64.23,192.69
+2023-07-15,Male,65,Skincare Set,Beauty,1,60.26,60.26
+2023-07-16,Male,23,Tablet,Electronics,3,781.58,2344.74
+2023-07-17,Female,36,Shampoo,Beauty,4,111.94,447.76
+2023-07-18,Female,47,Shoes,Clothing,1,136.46,136.46
+2023-07-18,Female,24,Cookware Set,Home & Kitchen,3,194.69,584.07
+2023-07-19,Female,27,Headphones,Electronics,3,1104.22,3312.66
+2023-07-20,Female,58,Lipstick,Beauty,2,67.76,135.52
+2023-07-20,Female,49,T-Shirt,Clothing,5,124.79,623.95
+2023-07-21,Female,51,Perfume,Beauty,1,125.28,125.28
+2023-07-22,Female,45,Tablet,Electronics,2,697.32,1394.64
+2023-07-23,Female,32,Skincare Set,Beauty,4,68.97,275.88
+2023-07-23,Female,47,Perfume,Beauty,5,84.06,420.3
+2023-07-24,Female,54,Perfume,Beauty,1,145.06,145.06
+2023-07-25,Male,46,Skincare Set,Beauty,3,57.28,171.84
+2023-07-26,Male,39,Face Cream,Beauty,1,34.18,34.18
+2023-07-26,Male,21,Blender,Home & Kitchen,3,177.19,531.57
+2023-07-27,Female,37,Dress,Clothing,5,215.39,1076.95
+2023-07-28,Male,49,Coffee Maker,Home & Kitchen,3,71.83,215.49
+2023-07-28,Male,53,Dress,Clothing,4,248.09,992.36
+2023-07-29,Female,21,Headphones,Electronics,3,695.1,2085.3
+2023-07-30,Male,44,Headphones,Electronics,4,1183.33,4733.32
+2023-07-31,Female,34,Dress,Clothing,5,235.97,1179.85
+2023-07-31,Male,29,Lamp,Home & Kitchen,5,242.82,1214.1
+2023-08-01,Male,39,Coffee Maker,Home & Kitchen,1,123.29,123.29
+2023-08-02,Female,34,Cookware Set,Home & Kitchen,4,107.5,430.0
+2023-08-03,Male,27,Lipstick,Beauty,4,50.8,203.2
+2023-08-03,Male,18,Jacket,Clothing,2,183.33,366.66
+2023-08-04,Female,39,Tablet,Electronics,2,400.24,800.48
+2023-08-05,Female,43,Shoes,Clothing,2,98.53,197.06
+2023-08-06,Male,35,Jeans,Clothing,3,123.22,369.66
+2023-08-06,Female,31,Tablet,Electronics,2,1104.56,2209.12
+2023-08-07,Male,64,Dress,Clothing,4,63.56,254.24
+2023-08-08,Male,46,Shampoo,Beauty,3,10.85,32.55
+2023-08-08,Female,29,Cookware Set,Home & Kitchen,5,58.25,291.25
+2023-08-09,Female,53,Dumbbells,Sports,1,318.57,318.57
+2023-08-10,Female,52,Yoga Mat,Sports,2,233.68,467.36
+2023-08-11,Female,29,Shampoo,Beauty,5,56.42,282.1
+2023-08-11,Female,24,Dress,Clothing,4,60.75,243.0
+2023-08-12,Female,46,Face Cream,Beauty,1,60.03,60.03
+2023-08-13,Male,28,Blender,Home & Kitchen,5,83.95,419.75
+2023-08-14,Female,50,Headphones,Electronics,1,1135.69,1135.69
+2023-08-14,Male,23,Shoes,Clothing,2,200.37,400.74
+2023-08-15,Male,64,Blender,Home & Kitchen,4,247.32,989.28
+2023-08-16,Male,32,Jacket,Clothing,1,218.94,218.94
+2023-08-16,Male,49,Shampoo,Beauty,5,52.41,262.05
+2023-08-17,Female,28,Skincare Set,Beauty,2,131.91,263.82
+2023-08-18,Female,40,Headphones,Electronics,2,1041.75,2083.5
+2023-08-19,Female,43,Dress,Clothing,5,102.06,510.3
+2023-08-19,Male,51,T-Shirt,Clothing,5,194.22,971.1
+2023-08-20,Male,63,Headphones,Electronics,1,424.58,424.58
+2023-08-21,Male,51,Headphones,Electronics,3,428.74,1286.22
+2023-08-22,Male,46,Vacuum Cleaner,Home & Kitchen,2,80.32,160.64
+2023-08-22,Female,21,Shoes,Clothing,1,121.21,121.21
+2023-08-23,Female,34,Skincare Set,Beauty,5,134.05,670.25
+2023-08-24,Female,52,Dress,Clothing,1,236.25,236.25
+2023-08-25,Male,30,Yoga Mat,Sports,5,219.25,1096.25
+2023-08-25,Female,58,Shoes,Clothing,4,218.52,874.08
+2023-08-26,Female,56,Jacket,Clothing,5,209.17,1045.85
+2023-08-27,Female,32,Cookware Set,Home & Kitchen,5,111.47,557.35
+2023-08-27,Female,46,Blender,Home & Kitchen,5,258.33,1291.65
+2023-08-28,Male,46,Smartphone,Electronics,3,228.62,685.86
+2023-08-29,Male,28,Vacuum Cleaner,Home & Kitchen,5,350.61,1753.05
+2023-08-30,Male,49,Shoes,Clothing,2,238.48,476.96
+2023-08-30,Female,19,Dress,Clothing,2,51.53,103.06
+2023-08-31,Male,64,Tablet,Electronics,1,907.27,907.27
+2023-09-01,Male,31,Tablet,Electronics,3,795.46,2386.38
+2023-09-02,Male,37,Blender,Home & Kitchen,1,304.29,304.29
+2023-09-02,Male,39,T-Shirt,Clothing,2,109.73,219.46
+2023-09-03,Female,28,Dress,Clothing,2,101.68,203.36
+2023-09-04,Female,44,Blender,Home & Kitchen,4,51.27,205.08
+2023-09-04,Male,20,Coffee Maker,Home & Kitchen,5,132.42,662.1
+2023-09-05,Male,34,Tablet,Electronics,2,116.69,233.38
+2023-09-06,Female,61,Perfume,Beauty,1,108.84,108.84
+2023-09-07,Male,45,Laptop,Electronics,1,216.44,216.44
+2023-09-07,Male,46,Vacuum Cleaner,Home & Kitchen,5,440.32,2201.6
+2023-09-08,Male,38,Face Cream,Beauty,5,98.93,494.65
+2023-09-09,Male,64,Dumbbells,Sports,4,250.9,1003.6
+2023-09-10,Female,33,Headphones,Electronics,3,551.94,1655.82
+2023-09-10,Female,54,Headphones,Electronics,1,716.64,716.64
+2023-09-11,Male,37,Shoes,Clothing,5,236.81,1184.05
+2023-09-12,Male,23,Shoes,Clothing,1,39.03,39.03
+2023-09-13,Female,36,Shoes,Clothing,5,78.41,392.05
+2023-09-13,Female,22,Running Shoes,Sports,2,277.4,554.8
+2023-09-14,Female,20,Shoes,Clothing,1,42.71,42.71
+2023-09-15,Female,18,T-Shirt,Clothing,2,37.4,74.8
+2023-09-15,Male,55,Vacuum Cleaner,Home & Kitchen,1,199.92,199.92
+2023-09-16,Male,32,Dress,Clothing,3,41.2,123.6
+2023-09-17,Female,51,Cookware Set,Home & Kitchen,4,304.99,1219.96
+2023-09-18,Male,52,Laptop,Electronics,2,348.9,697.8
+2023-09-18,Female,42,Dress,Clothing,5,226.01,1130.05
+2023-09-19,Female,41,Smartphone,Electronics,3,961.85,2885.55
+2023-09-20,Female,29,Headphones,Electronics,1,869.68,869.68
+2023-09-21,Male,35,Running Shoes,Sports,2,223.59,447.18
+2023-09-21,Female,32,Smartphone,Electronics,1,1049.81,1049.81
+2023-09-22,Male,61,Lipstick,Beauty,1,47.92,47.92
+2023-09-23,Female,33,Shoes,Clothing,1,220.82,220.82
+2023-09-23,Female,44,Dress,Clothing,4,201.58,806.32
+2023-09-24,Male,25,Tennis Racket,Sports,4,266.89,1067.56
+2023-09-25,Female,63,Smartphone,Electronics,5,717.38,3586.9
+2023-09-26,Female,42,Lipstick,Beauty,2,51.86,103.72
+2023-09-26,Male,34,Yoga Mat,Sports,3,159.77,479.31
+2023-09-27,Male,46,Skincare Set,Beauty,3,144.91,434.73
+2023-09-28,Male,25,Running Shoes,Sports,3,30.49,91.47
+2023-09-29,Male,32,Laptop,Electronics,1,960.26,960.26
+2023-09-29,Male,44,T-Shirt,Clothing,4,75.22,300.88
+2023-09-30,Female,63,T-Shirt,Clothing,2,53.19,106.38
+2023-10-01,Male,24,Lamp,Home & Kitchen,1,84.38,84.38
+2023-10-02,Male,20,Yoga Mat,Sports,4,28.99,115.96
+2023-10-02,Female,46,T-Shirt,Clothing,4,140.42,561.68
+2023-10-03,Male,61,Perfume,Beauty,2,47.1,94.2
+2023-10-04,Female,41,Smartwatch,Electronics,2,1188.37,2376.74
+2023-10-04,Male,20,Shampoo,Beauty,2,107.65,215.3
+2023-10-05,Male,37,T-Shirt,Clothing,1,51.71,51.71
+2023-10-06,Female,63,Running Shoes,Sports,5,247.29,1236.45
+2023-10-07,Female,32,Face Cream,Beauty,2,162.62,325.24
+2023-10-07,Female,42,Dress,Clothing,5,191.39,956.95
+2023-10-08,Female,47,Smartphone,Electronics,1,184.08,184.08
+2023-10-09,Female,31,Smartphone,Electronics,5,1085.47,5427.35
+2023-10-10,Male,24,T-Shirt,Clothing,3,202.6,607.8
+2023-10-10,Male,34,Jacket,Clothing,5,56.41,282.05
+2023-10-11,Female,61,Coffee Maker,Home & Kitchen,2,54.34,108.68
+2023-10-12,Female,37,Perfume,Beauty,1,104.74,104.74
+2023-10-12,Female,53,Perfume,Beauty,2,36.53,73.06
+2023-10-13,Male,26,Laptop,Electronics,3,1018.05,3054.15
+2023-10-14,Male,55,Lamp,Home & Kitchen,2,198.42,396.84
+2023-10-15,Female,65,Blender,Home & Kitchen,2,459.06,918.12
+2023-10-15,Male,39,Laptop,Electronics,2,722.26,1444.52
+2023-10-16,Female,19,Vacuum Cleaner,Home & Kitchen,4,115.86,463.44
+2023-10-17,Female,41,Perfume,Beauty,3,33.73,101.19
+2023-10-18,Male,25,Smartphone,Electronics,2,734.12,1468.24
+2023-10-18,Female,28,Jeans,Clothing,2,195.23,390.46
+2023-10-19,Female,30,Jacket,Clothing,2,199.75,399.5
+2023-10-20,Male,34,Smartphone,Electronics,1,403.33,403.33
+2023-10-21,Female,25,Tennis Racket,Sports,4,87.4,349.6
+2023-10-21,Female,38,Blender,Home & Kitchen,1,37.88,37.88
+2023-10-22,Female,35,Face Cream,Beauty,4,125.46,501.84
+2023-10-23,Male,47,Shoes,Clothing,2,37.61,75.22
+2023-10-23,Female,35,Shoes,Clothing,3,116.78,350.34
+2023-10-24,Male,63,Face Cream,Beauty,5,112.29,561.45
+2023-10-25,Male,64,Lipstick,Beauty,5,169.31,846.55
+2023-10-26,Female,48,Smartphone,Electronics,2,442.98,885.96
+2023-10-26,Male,55,Perfume,Beauty,1,52.46,52.46
+2023-10-27,Male,49,Coffee Maker,Home & Kitchen,3,337.46,1012.38
+2023-10-28,Female,28,Dress,Clothing,4,162.42,649.68
+2023-10-29,Female,62,Smartphone,Electronics,2,465.32,930.64
+2023-10-29,Female,42,Blender,Home & Kitchen,3,466.21,1398.63
+2023-10-30,Female,50,Headphones,Electronics,3,1029.35,3088.05
+2023-10-31,Male,55,Jeans,Clothing,4,71.52,286.08
+2023-10-31,Male,58,Smartwatch,Electronics,3,363.06,1089.18
+2023-11-01,Male,25,Shoes,Clothing,1,137.83,137.83
+2023-11-02,Female,28,Cookware Set,Home & Kitchen,1,393.58,393.58
+2023-11-03,Female,39,Perfume,Beauty,1,17.49,17.49
+2023-11-03,Female,41,Headphones,Electronics,3,862.67,2588.01
+2023-11-04,Female,58,Lamp,Home & Kitchen,1,334.67,334.67
+2023-11-05,Male,34,Coffee Maker,Home & Kitchen,4,138.8,555.2
+2023-11-06,Female,29,Lamp,Home & Kitchen,3,350.24,1050.72
+2023-11-06,Male,63,Jeans,Clothing,5,236.24,1181.2
+2023-11-07,Female,49,T-Shirt,Clothing,3,30.76,92.28
+2023-11-08,Male,32,Yoga Mat,Sports,4,125.49,501.96
+2023-11-09,Female,33,Vacuum Cleaner,Home & Kitchen,5,235.94,1179.7
+2023-11-09,Male,39,Smartwatch,Electronics,3,1089.19,3267.57
+2023-11-10,Male,45,Headphones,Electronics,1,1158.49,1158.49
+2023-11-11,Male,37,Dress,Clothing,2,122.15,244.3
+2023-11-11,Female,50,Running Shoes,Sports,2,267.51,535.02
+2023-11-12,Female,27,Perfume,Beauty,1,100.38,100.38
+2023-11-13,Male,57,T-Shirt,Clothing,2,143.69,287.38
+2023-11-14,Male,49,Smartphone,Electronics,2,405.91,811.82
+2023-11-14,Female,50,Lipstick,Beauty,1,46.88,46.88
+2023-11-15,Male,19,Vacuum Cleaner,Home & Kitchen,1,165.36,165.36
+2023-11-16,Female,50,T-Shirt,Clothing,3,147.96,443.88
+2023-11-17,Female,50,Vacuum Cleaner,Home & Kitchen,3,43.7,131.1
+2023-11-17,Male,58,Running Shoes,Sports,1,319.39,319.39
+2023-11-18,Male,30,Tablet,Electronics,4,271.91,1087.64
+2023-11-19,Female,47,Lipstick,Beauty,2,47.42,94.84
+2023-11-19,Male,50,Jacket,Clothing,3,139.2,417.6
+2023-11-20,Male,30,Coffee Maker,Home & Kitchen,2,363.75,727.5
+2023-11-21,Female,43,Lipstick,Beauty,5,26.27,131.35
+2023-11-22,Female,39,Lipstick,Beauty,1,64.01,64.01
+2023-11-22,Female,56,Cookware Set,Home & Kitchen,4,485.28,1941.12
+2023-11-23,Female,19,T-Shirt,Clothing,5,80.34,401.7
+2023-11-24,Male,55,Dumbbells,Sports,5,123.31,616.55
+2023-11-25,Male,56,Shampoo,Beauty,5,152.2,761.0
+2023-11-25,Female,43,Smartwatch,Electronics,1,155.24,155.24
+2023-11-26,Female,63,Skincare Set,Beauty,3,88.98,266.94
+2023-11-27,Male,32,Lamp,Home & Kitchen,1,208.42,208.42
+2023-11-28,Female,51,T-Shirt,Clothing,3,92.81,278.43
+2023-11-28,Male,59,Vacuum Cleaner,Home & Kitchen,5,164.28,821.4
+2023-11-29,Female,61,Running Shoes,Sports,5,50.15,250.75
+2023-11-30,Male,57,Jeans,Clothing,4,92.41,369.64
+2023-11-30,Male,28,Running Shoes,Sports,3,34.21,102.63
+2023-12-01,Male,20,Headphones,Electronics,5,959.06,4795.3
+2023-12-02,Male,23,Laptop,Electronics,2,538.05,1076.1
+2023-12-03,Male,26,Smartwatch,Electronics,4,588.29,2353.16
+2023-12-03,Female,23,Dumbbells,Sports,1,314.89,314.89
+2023-12-04,Female,26,Perfume,Beauty,4,121.87,487.48
+2023-12-05,Female,56,Smartphone,Electronics,2,108.87,217.74
+2023-12-06,Female,48,Shoes,Clothing,3,236.93,710.79
+2023-12-06,Male,49,Face Cream,Beauty,1,50.31,50.31
+2023-12-07,Male,58,Headphones,Electronics,1,218.38,218.38
+2023-12-08,Female,29,Tennis Racket,Sports,3,273.48,820.44
+2023-12-08,Male,25,Lamp,Home & Kitchen,4,265.22,1060.88
+2023-12-09,Female,25,Shampoo,Beauty,5,83.74,418.7
+2023-12-10,Male,45,Football,Sports,4,102.34,409.36
+2023-12-11,Female,37,T-Shirt,Clothing,2,145.92,291.84
+2023-12-11,Male,64,Tennis Racket,Sports,5,110.55,552.75
+2023-12-12,Female,24,Perfume,Beauty,4,163.27,653.08
+2023-12-13,Female,28,Shampoo,Beauty,3,46.58,139.74
+2023-12-14,Female,37,Tablet,Electronics,2,1072.79,2145.58
+2023-12-14,Male,33,Running Shoes,Sports,2,204.6,409.2
+2023-12-15,Female,21,T-Shirt,Clothing,2,210.55,421.1
+2023-12-16,Female,23,Laptop,Electronics,5,884.13,4420.65
+2023-12-17,Female,39,Smartphone,Electronics,1,866.36,866.36
+2023-12-17,Female,43,Lipstick,Beauty,5,65.14,325.7
+2023-12-18,Female,20,Face Cream,Beauty,4,49.76,199.04
+2023-12-19,Male,58,Lamp,Home & Kitchen,1,129.12,129.12
+2023-12-19,Female,59,Yoga Mat,Sports,4,302.87,1211.48
+2023-12-20,Female,31,Smartwatch,Electronics,1,1002.47,1002.47
+2023-12-21,Female,28,Blender,Home & Kitchen,5,237.07,1185.35
+2023-12-22,Male,35,Tablet,Electronics,2,245.65,491.3
+2023-12-22,Male,29,Coffee Maker,Home & Kitchen,3,209.66,628.98
+2023-12-23,Female,40,Lamp,Home & Kitchen,2,321.09,642.18
+2023-12-24,Female,29,Face Cream,Beauty,5,87.25,436.25
+2023-12-25,Male,30,Coffee Maker,Home & Kitchen,1,396.69,396.69
+2023-12-25,Female,42,Dress,Clothing,2,249.45,498.9
+2023-12-26,Male,62,Jeans,Clothing,5,63.96,319.8
+2023-12-27,Male,36,Cookware Set,Home & Kitchen,4,246.04,984.16
+2023-12-27,Male,63,T-Shirt,Clothing,3,119.13,357.39
+2023-12-28,Male,53,T-Shirt,Clothing,2,90.03,180.06
+2023-12-29,Female,62,Jeans,Clothing,1,65.56,65.56
+2023-12-30,Male,25,Vacuum Cleaner,Home & Kitchen,4,60.88,243.52
+2023-12-30,Female,46,Jeans,Clothing,5,224.04,1120.2
+2023-12-31,Female,49,Smartphone,Electronics,3,561.83,1685.49
+2024-01-01,Female,61,Cookware Set,Home & Kitchen,1,263.54,263.54
+2024-01-02,Female,35,Cookware Set,Home & Kitchen,5,460.96,2304.8
+2024-01-02,Male,23,Tablet,Electronics,5,953.92,4769.6
+2024-01-03,Female,35,Shoes,Clothing,2,50.02,100.04
+2024-01-04,Female,36,Smartphone,Electronics,2,721.96,1443.92
+2024-01-05,Male,39,Dress,Clothing,1,121.72,121.72
+2024-01-05,Female,54,Jeans,Clothing,5,203.36,1016.8
+2024-01-06,Female,49,Cookware Set,Home & Kitchen,2,370.39,740.78
+2024-01-07,Female,58,Shampoo,Beauty,3,127.37,382.11
+2024-01-07,Female,20,Perfume,Beauty,3,67.89,203.67
+2024-01-08,Female,45,T-Shirt,Clothing,5,205.14,1025.7
+2024-01-09,Male,27,Lamp,Home & Kitchen,2,54.62,109.24
+2024-01-10,Female,52,T-Shirt,Clothing,1,56.71,56.71
+2024-01-10,Female,46,Dumbbells,Sports,1,130.76,130.76
+2024-01-11,Male,32,Lipstick,Beauty,1,23.06,23.06
+2024-01-12,Male,50,Headphones,Electronics,3,358.49,1075.47
+2024-01-13,Male,24,Skincare Set,Beauty,2,151.13,302.26
+2024-01-13,Female,29,Jeans,Clothing,2,238.1,476.2
+2024-01-14,Female,47,Perfume,Beauty,3,61.78,185.34
+2024-01-15,Male,38,Headphones,Electronics,1,390.97,390.97
+2024-01-15,Female,48,Laptop,Electronics,1,407.88,407.88
+2024-01-16,Male,41,Coffee Maker,Home & Kitchen,5,160.53,802.65
+2024-01-17,Female,37,Jeans,Clothing,4,28.26,113.04
+2024-01-18,Female,54,Cookware Set,Home & Kitchen,2,465.65,931.3
+2024-01-18,Female,21,Jacket,Clothing,2,69.15,138.3
+2024-01-19,Male,45,Lipstick,Beauty,2,81.4,162.8
+2024-01-20,Male,61,Face Cream,Beauty,4,11.65,46.6
+2024-01-21,Male,37,Shampoo,Beauty,5,155.85,779.25
+2024-01-21,Male,41,Jacket,Clothing,4,188.17,752.68
+2024-01-22,Female,49,Smartphone,Electronics,1,1141.43,1141.43
+2024-01-23,Female,58,Smartwatch,Electronics,1,959.78,959.78
+2024-01-24,Female,53,Shoes,Clothing,2,92.15,184.3
+2024-01-24,Female,51,Lipstick,Beauty,3,52.14,156.42
+2024-01-25,Female,53,Dumbbells,Sports,2,250.25,500.5
+2024-01-26,Female,19,Lamp,Home & Kitchen,3,201.13,603.39
+2024-01-26,Female,32,Cookware Set,Home & Kitchen,4,296.12,1184.48
+2024-01-27,Female,51,Vacuum Cleaner,Home & Kitchen,1,32.94,32.94
+2024-01-28,Male,53,Skincare Set,Beauty,3,20.52,61.56
+2024-01-29,Male,23,Jacket,Clothing,4,143.13,572.52
+2024-01-29,Male,56,Running Shoes,Sports,1,206.8,206.8
+2024-01-30,Female,59,Skincare Set,Beauty,3,137.75,413.25
+2024-01-31,Female,29,Perfume,Beauty,2,32.43,64.86
+2024-02-01,Male,20,Smartphone,Electronics,2,664.5,1329.0
+2024-02-01,Female,62,T-Shirt,Clothing,2,64.72,129.44
+2024-02-02,Female,35,Jacket,Clothing,4,41.44,165.76
+2024-02-03,Male,57,Coffee Maker,Home & Kitchen,2,222.93,445.86
+2024-02-03,Male,38,Lipstick,Beauty,5,37.77,188.85
+2024-02-04,Female,32,Shoes,Clothing,1,71.01,71.01
+2024-02-05,Female,50,Yoga Mat,Sports,4,124.79,499.16
+2024-02-06,Female,52,Tablet,Electronics,2,385.33,770.66
+2024-02-06,Female,43,Shoes,Clothing,1,40.15,40.15
+2024-02-07,Female,25,Smartphone,Electronics,3,198.91,596.73
+2024-02-08,Female,53,Lamp,Home & Kitchen,2,120.83,241.66
+2024-02-09,Female,65,Yoga Mat,Sports,1,36.68,36.68
+2024-02-09,Female,47,T-Shirt,Clothing,5,164.09,820.45
+2024-02-10,Male,40,Cookware Set,Home & Kitchen,3,165.04,495.12
+2024-02-11,Male,59,Dress,Clothing,5,84.34,421.7
+2024-02-12,Male,61,Running Shoes,Sports,1,129.56,129.56
+2024-02-12,Female,31,Lamp,Home & Kitchen,5,341.51,1707.55
+2024-02-13,Female,31,Vacuum Cleaner,Home & Kitchen,1,439.2,439.2
+2024-02-14,Female,19,Headphones,Electronics,1,935.0,935.0
+2024-02-14,Male,54,Dumbbells,Sports,5,260.08,1300.4
+2024-02-15,Male,22,Cookware Set,Home & Kitchen,1,257.66,257.66
+2024-02-16,Male,55,T-Shirt,Clothing,2,179.58,359.16
+2024-02-17,Male,62,Vacuum Cleaner,Home & Kitchen,1,289.8,289.8
+2024-02-17,Female,58,Shoes,Clothing,4,69.74,278.96
+2024-02-18,Male,64,Blender,Home & Kitchen,1,128.04,128.04
+2024-02-19,Male,31,Smartphone,Electronics,4,426.03,1704.12
+2024-02-20,Female,56,Vacuum Cleaner,Home & Kitchen,1,458.08,458.08
+2024-02-20,Male,42,Shampoo,Beauty,1,103.06,103.06
+2024-02-21,Female,37,Smartphone,Electronics,5,907.3,4536.5
+2024-02-22,Female,19,T-Shirt,Clothing,2,99.71,199.42
+2024-02-22,Male,56,Smartwatch,Electronics,2,548.49,1096.98
+2024-02-23,Female,23,Jacket,Clothing,3,48.88,146.64
+2024-02-24,Female,34,T-Shirt,Clothing,5,59.4,297.0
+2024-02-25,Female,42,Skincare Set,Beauty,5,150.65,753.25
+2024-02-25,Male,45,Shoes,Clothing,2,154.51,309.02
+2024-02-26,Female,19,T-Shirt,Clothing,5,97.63,488.15
+2024-02-27,Female,52,Vacuum Cleaner,Home & Kitchen,2,407.34,814.68
+2024-02-28,Male,54,Laptop,Electronics,5,371.17,1855.85
+2024-02-28,Male,22,Football,Sports,1,342.09,342.09
+2024-02-29,Female,18,Cookware Set,Home & Kitchen,2,192.06,384.12
+2024-03-01,Female,57,Skincare Set,Beauty,2,67.34,134.68
+2024-03-02,Male,29,Lipstick,Beauty,4,63.03,252.12
+2024-03-02,Female,53,Yoga Mat,Sports,5,60.3,301.5
+2024-03-03,Male,62,Headphones,Electronics,5,222.25,1111.25
+2024-03-04,Male,40,Smartwatch,Electronics,2,812.92,1625.84
+2024-03-04,Male,64,Jacket,Clothing,1,221.28,221.28
+2024-03-05,Male,48,Vacuum Cleaner,Home & Kitchen,1,401.54,401.54
+2024-03-06,Male,28,Smartphone,Electronics,1,255.22,255.22
+2024-03-07,Male,27,Shampoo,Beauty,5,102.75,513.75
+2024-03-07,Female,20,Dumbbells,Sports,4,54.85,219.4
+2024-03-08,Male,31,Vacuum Cleaner,Home & Kitchen,2,51.29,102.58
+2024-03-09,Male,33,Lipstick,Beauty,3,121.59,364.77
+2024-03-10,Female,27,Smartphone,Electronics,4,688.67,2754.68
+2024-03-10,Male,46,Lamp,Home & Kitchen,3,68.55,205.65
+2024-03-11,Female,27,Skincare Set,Beauty,4,15.94,63.76
+2024-03-12,Male,29,Headphones,Electronics,1,1188.73,1188.73
+2024-03-12,Male,47,Smartwatch,Electronics,5,133.02,665.1
+2024-03-13,Male,58,Football,Sports,3,166.69,500.07
+2024-03-14,Male,18,Lipstick,Beauty,4,95.79,383.16
+2024-03-15,Male,22,Blender,Home & Kitchen,5,85.12,425.6
+2024-03-15,Male,37,Blender,Home & Kitchen,3,109.46,328.38
+2024-03-16,Male,25,Skincare Set,Beauty,2,69.81,139.62
+2024-03-17,Male,60,Skincare Set,Beauty,4,139.48,557.92
+2024-03-18,Male,29,Shoes,Clothing,2,136.63,273.26
+2024-03-18,Male,18,Dress,Clothing,1,166.72,166.72
+2024-03-19,Male,37,T-Shirt,Clothing,2,246.59,493.18
+2024-03-20,Female,45,Vacuum Cleaner,Home & Kitchen,2,390.96,781.92
+2024-03-21,Female,60,Shampoo,Beauty,4,83.84,335.36
+2024-03-21,Male,54,Football,Sports,1,167.33,167.33
+2024-03-22,Female,64,T-Shirt,Clothing,2,162.32,324.64
+2024-03-23,Female,54,Face Cream,Beauty,5,123.11,615.55
+2024-03-23,Male,29,Lipstick,Beauty,3,95.12,285.36
+2024-03-24,Female,54,Skincare Set,Beauty,2,119.63,239.26
+2024-03-25,Female,61,Lamp,Home & Kitchen,1,41.06,41.06
+2024-03-26,Male,45,Dress,Clothing,2,118.81,237.62
+2024-03-26,Male,64,Skincare Set,Beauty,3,57.42,172.26
+2024-03-27,Female,32,Headphones,Electronics,1,242.09,242.09
+2024-03-28,Female,23,Jeans,Clothing,4,42.9,171.6
+2024-03-29,Male,61,T-Shirt,Clothing,1,158.73,158.73
+2024-03-29,Male,37,Lipstick,Beauty,4,99.01,396.04
+2024-03-30,Male,31,Yoga Mat,Sports,1,103.68,103.68
+2024-03-31,Female,19,Skincare Set,Beauty,3,90.06,270.18
+2024-03-31,Female,26,Cookware Set,Home & Kitchen,3,261.35,784.05
+2024-04-01,Male,54,Lipstick,Beauty,1,43.15,43.15
+2024-04-02,Male,37,Shampoo,Beauty,2,120.86,241.72
+2024-04-03,Female,43,Headphones,Electronics,3,959.01,2877.03
+2024-04-03,Male,46,Dress,Clothing,4,202.04,808.16
+2024-04-04,Male,18,Jacket,Clothing,4,158.57,634.28
+2024-04-05,Female,52,Jeans,Clothing,5,137.68,688.4
+2024-04-06,Female,23,Smartphone,Electronics,4,167.11,668.44
+2024-04-06,Female,54,Headphones,Electronics,5,416.61,2083.05
+2024-04-07,Female,22,Jacket,Clothing,1,41.45,41.45
+2024-04-08,Male,50,Yoga Mat,Sports,1,338.06,338.06
+2024-04-09,Male,31,T-Shirt,Clothing,1,51.07,51.07
+2024-04-09,Female,29,T-Shirt,Clothing,2,54.91,109.82
+2024-04-10,Male,59,Tablet,Electronics,2,1078.53,2157.06
+2024-04-11,Male,37,Lipstick,Beauty,5,170.47,852.35
+2024-04-11,Male,41,T-Shirt,Clothing,4,196.14,784.56
+2024-04-12,Male,60,Smartphone,Electronics,4,105.95,423.8
+2024-04-13,Male,51,Shampoo,Beauty,1,10.23,10.23
+2024-04-14,Male,42,Smartwatch,Electronics,3,515.91,1547.73
+2024-04-14,Male,46,Smartphone,Electronics,2,257.73,515.46
+2024-04-15,Male,56,Tablet,Electronics,2,120.22,240.44
+2024-04-16,Female,48,Smartphone,Electronics,1,610.47,610.47
+2024-04-17,Female,64,Laptop,Electronics,2,1137.37,2274.74
+2024-04-17,Female,60,Jacket,Clothing,1,94.48,94.48
+2024-04-18,Female,40,Vacuum Cleaner,Home & Kitchen,5,340.74,1703.7
+2024-04-19,Female,61,Skincare Set,Beauty,4,120.88,483.52
+2024-04-19,Male,55,Face Cream,Beauty,3,52.68,158.04
+2024-04-20,Female,37,Jeans,Clothing,4,169.6,678.4
+2024-04-21,Female,40,Running Shoes,Sports,4,90.07,360.28
+2024-04-22,Female,62,Jacket,Clothing,5,48.06,240.3
+2024-04-22,Male,33,Smartwatch,Electronics,2,871.52,1743.04
+2024-04-23,Male,59,Skincare Set,Beauty,3,29.28,87.84
+2024-04-24,Male,25,Smartwatch,Electronics,2,1196.6,2393.2
+2024-04-25,Male,38,Jeans,Clothing,4,62.19,248.76
+2024-04-25,Female,18,Shampoo,Beauty,1,111.0,111.0
+2024-04-26,Female,25,Lamp,Home & Kitchen,4,223.35,893.4
+2024-04-27,Male,46,Dress,Clothing,2,49.07,98.14
+2024-04-28,Female,49,Coffee Maker,Home & Kitchen,4,43.09,172.36
+2024-04-28,Female,55,Yoga Mat,Sports,1,225.5,225.5
+2024-04-29,Male,22,Laptop,Electronics,5,987.43,4937.15
+2024-04-30,Male,64,Jacket,Clothing,2,213.66,427.32
+2024-04-30,Male,39,Jeans,Clothing,4,131.02,524.08
+2024-05-01,Male,64,T-Shirt,Clothing,2,198.81,397.62
+2024-05-02,Male,51,Dress,Clothing,5,174.75,873.75
+2024-05-03,Male,18,Dumbbells,Sports,4,259.0,1036.0
+2024-05-03,Male,43,Vacuum Cleaner,Home & Kitchen,4,261.52,1046.08
+2024-05-04,Male,60,Lipstick,Beauty,2,117.68,235.36
+2024-05-05,Female,27,Shoes,Clothing,2,205.27,410.54
+2024-05-06,Male,47,Coffee Maker,Home & Kitchen,1,217.01,217.01
+2024-05-06,Female,35,Football,Sports,5,285.97,1429.85
+2024-05-07,Male,34,Lamp,Home & Kitchen,1,308.25,308.25
+2024-05-08,Female,43,Laptop,Electronics,4,282.49,1129.96
+2024-05-08,Male,25,Perfume,Beauty,2,14.2,28.4
+2024-05-09,Male,64,Smartphone,Electronics,4,499.03,1996.12
+2024-05-10,Female,57,Dress,Clothing,4,145.74,582.96
+2024-05-11,Female,29,Tablet,Electronics,3,1023.8,3071.4
+2024-05-11,Female,44,Face Cream,Beauty,3,31.67,95.01
+2024-05-12,Male,25,Perfume,Beauty,4,146.04,584.16
+2024-05-13,Male,42,Laptop,Electronics,2,1049.31,2098.62
+2024-05-14,Female,63,Shoes,Clothing,4,54.66,218.64
+2024-05-14,Female,21,Dress,Clothing,3,215.87,647.61
+2024-05-15,Female,50,Jeans,Clothing,2,248.03,496.06
+2024-05-16,Female,18,Headphones,Electronics,4,899.52,3598.08
+2024-05-17,Male,36,Dress,Clothing,5,200.5,1002.5
+2024-05-17,Female,48,Coffee Maker,Home & Kitchen,5,497.38,2486.9
+2024-05-18,Male,33,Headphones,Electronics,4,766.03,3064.12
+2024-05-19,Male,31,Headphones,Electronics,2,438.68,877.36
+2024-05-19,Male,65,Shoes,Clothing,4,212.63,850.52
+2024-05-20,Female,22,Tennis Racket,Sports,4,222.78,891.12
+2024-05-21,Male,58,Perfume,Beauty,3,108.8,326.4
+2024-05-22,Male,43,Shampoo,Beauty,5,53.12,265.6
+2024-05-22,Female,45,Shoes,Clothing,3,193.96,581.88
+2024-05-23,Male,19,Shampoo,Beauty,3,23.88,71.64
+2024-05-24,Female,23,Headphones,Electronics,4,1116.72,4466.88
+2024-05-25,Male,26,Skincare Set,Beauty,3,65.39,196.17
+2024-05-25,Female,50,Football,Sports,5,62.17,310.85
+2024-05-26,Female,58,Face Cream,Beauty,3,85.2,255.6
+2024-05-27,Male,42,Vacuum Cleaner,Home & Kitchen,5,49.96,249.8
+2024-05-27,Male,65,Cookware Set,Home & Kitchen,3,351.77,1055.31
+2024-05-28,Male,30,Smartwatch,Electronics,5,1092.98,5464.9
+2024-05-29,Male,26,Football,Sports,3,296.3,888.9
+2024-05-30,Female,30,Tablet,Electronics,3,240.11,720.33
+2024-05-30,Male,48,Face Cream,Beauty,2,31.47,62.94
+2024-05-31,Female,58,Smartwatch,Electronics,5,994.78,4973.9
+2024-06-01,Male,28,Laptop,Electronics,5,1116.68,5583.4
+2024-06-02,Female,21,T-Shirt,Clothing,5,125.95,629.75
+2024-06-02,Female,51,Jeans,Clothing,1,134.76,134.76
+2024-06-03,Female,55,Jeans,Clothing,3,93.2,279.6
+2024-06-04,Male,63,Perfume,Beauty,5,162.03,810.15
+2024-06-05,Male,21,Smartphone,Electronics,1,809.39,809.39
+2024-06-05,Male,55,Tablet,Electronics,2,417.08,834.16
+2024-06-06,Female,36,Face Cream,Beauty,5,60.79,303.95
+2024-06-07,Female,23,T-Shirt,Clothing,5,224.98,1124.9
+2024-06-07,Female,51,Lamp,Home & Kitchen,1,36.41,36.41
+2024-06-08,Male,35,Face Cream,Beauty,3,64.86,194.58
+2024-06-09,Female,30,Lamp,Home & Kitchen,2,290.55,581.1
+2024-06-10,Female,58,Perfume,Beauty,5,35.2,176.0
+2024-06-10,Male,40,Dress,Clothing,3,41.18,123.54
+2024-06-11,Male,36,Skincare Set,Beauty,2,148.6,297.2
+2024-06-12,Female,62,T-Shirt,Clothing,4,225.71,902.84
+2024-06-13,Female,28,Shoes,Clothing,4,209.43,837.72
+2024-06-13,Female,18,Lamp,Home & Kitchen,2,452.43,904.86
+2024-06-14,Male,41,T-Shirt,Clothing,1,147.22,147.22
+2024-06-15,Female,24,Blender,Home & Kitchen,2,411.76,823.52
+2024-06-15,Male,42,Vacuum Cleaner,Home & Kitchen,2,210.5,421.0
+2024-06-16,Male,38,Vacuum Cleaner,Home & Kitchen,1,343.15,343.15
+2024-06-17,Male,32,Tennis Racket,Sports,1,346.32,346.32
+2024-06-18,Female,18,Shoes,Clothing,3,71.92,215.76
+2024-06-18,Female,29,Dress,Clothing,3,109.68,329.04
+2024-06-19,Female,24,Perfume,Beauty,1,91.61,91.61
+2024-06-20,Male,32,Dress,Clothing,4,51.74,206.96
+2024-06-21,Female,38,Skincare Set,Beauty,4,23.78,95.12
+2024-06-21,Male,36,Vacuum Cleaner,Home & Kitchen,2,419.97,839.94
+2024-06-22,Female,46,Shampoo,Beauty,5,176.06,880.3
+2024-06-23,Male,42,Jeans,Clothing,2,113.09,226.18
+2024-06-24,Male,50,Smartphone,Electronics,2,196.41,392.82
+2024-06-24,Male,49,T-Shirt,Clothing,5,35.14,175.7
+2024-06-25,Male,52,Headphones,Electronics,1,1080.45,1080.45
+2024-06-26,Female,61,Yoga Mat,Sports,4,173.06,692.24
+2024-06-26,Female,55,Jacket,Clothing,2,93.61,187.22
+2024-06-27,Male,43,Laptop,Electronics,5,624.11,3120.55
+2024-06-28,Female,28,Laptop,Electronics,3,450.13,1350.39
+2024-06-29,Male,52,Shampoo,Beauty,2,93.14,186.28
+2024-06-29,Female,25,Lipstick,Beauty,4,156.12,624.48
+2024-06-30,Female,63,Shoes,Clothing,1,156.23,156.23
+2024-07-01,Female,31,Laptop,Electronics,2,864.12,1728.24
+2024-07-02,Male,27,T-Shirt,Clothing,2,103.87,207.74
+2024-07-02,Female,19,Jeans,Clothing,5,189.86,949.3
+2024-07-03,Female,63,Shampoo,Beauty,3,123.32,369.96
+2024-07-04,Male,26,Lipstick,Beauty,3,30.33,90.99
+2024-07-04,Male,20,Jacket,Clothing,1,151.71,151.71
+2024-07-05,Female,38,Smartwatch,Electronics,4,382.42,1529.68
+2024-07-06,Female,43,Running Shoes,Sports,1,285.35,285.35
+2024-07-07,Female,25,Dress,Clothing,2,117.97,235.94
+2024-07-07,Female,65,Perfume,Beauty,2,179.1,358.2
+2024-07-08,Female,19,Smartphone,Electronics,3,201.75,605.25
+2024-07-09,Male,23,T-Shirt,Clothing,4,199.48,797.92
+2024-07-10,Male,45,Headphones,Electronics,5,841.07,4205.35
+2024-07-10,Male,46,Lipstick,Beauty,4,140.47,561.88
+2024-07-11,Female,43,Yoga Mat,Sports,2,121.48,242.96
+2024-07-12,Male,42,Jeans,Clothing,5,133.17,665.85
+2024-07-13,Female,29,Smartphone,Electronics,4,976.16,3904.64
+2024-07-13,Female,22,Tablet,Electronics,4,355.8,1423.2
+2024-07-14,Female,51,Jeans,Clothing,5,71.99,359.95
+2024-07-15,Male,65,Laptop,Electronics,2,706.16,1412.32
+2024-07-15,Female,54,Headphones,Electronics,4,675.92,2703.68
+2024-07-16,Male,32,Vacuum Cleaner,Home & Kitchen,5,162.66,813.3
+2024-07-17,Female,61,T-Shirt,Clothing,2,88.56,177.12
+2024-07-18,Male,53,Jeans,Clothing,5,83.9,419.5
+2024-07-18,Male,32,Tennis Racket,Sports,5,274.6,1373.0
+2024-07-19,Female,60,Tablet,Electronics,4,817.09,3268.36
+2024-07-20,Male,65,Football,Sports,2,294.7,589.4
+2024-07-21,Male,40,Dress,Clothing,4,244.36,977.44
+2024-07-21,Female,23,Tennis Racket,Sports,1,176.47,176.47
+2024-07-22,Female,63,Face Cream,Beauty,1,21.34,21.34
+2024-07-23,Female,61,Cookware Set,Home & Kitchen,2,52.6,105.2
+2024-07-23,Female,60,Football,Sports,5,117.57,587.85
+2024-07-24,Female,62,Dress,Clothing,4,234.49,937.96
+2024-07-25,Male,38,Tennis Racket,Sports,4,192.66,770.64
+2024-07-26,Male,40,Jeans,Clothing,2,82.51,165.02
+2024-07-26,Male,60,T-Shirt,Clothing,2,111.81,223.62
+2024-07-27,Female,33,Jacket,Clothing,1,157.68,157.68
+2024-07-28,Female,64,Skincare Set,Beauty,3,121.0,363.0
+2024-07-29,Male,32,Smartphone,Electronics,2,269.31,538.62
+2024-07-29,Male,42,Face Cream,Beauty,3,176.1,528.3
+2024-07-30,Female,53,Perfume,Beauty,2,102.61,205.22
+2024-07-31,Male,28,Blender,Home & Kitchen,5,93.77,468.85
+2024-08-01,Female,32,Blender,Home & Kitchen,5,450.01,2250.05
+2024-08-01,Female,21,Jacket,Clothing,1,37.17,37.17
+2024-08-02,Female,38,T-Shirt,Clothing,1,228.78,228.78
+2024-08-03,Male,30,Jacket,Clothing,3,249.21,747.63
+2024-08-03,Female,39,Tablet,Electronics,2,870.47,1740.94
+2024-08-04,Female,36,Headphones,Electronics,4,947.49,3789.96
+2024-08-05,Female,51,Dress,Clothing,1,97.58,97.58
+2024-08-06,Female,31,Dress,Clothing,4,236.56,946.24
+2024-08-06,Female,21,Running Shoes,Sports,4,194.81,779.24
+2024-08-07,Female,65,Skincare Set,Beauty,2,134.51,269.02
+2024-08-08,Male,63,Shoes,Clothing,3,232.54,697.62
+2024-08-09,Female,44,Perfume,Beauty,2,175.78,351.56
+2024-08-09,Female,46,Smartwatch,Electronics,1,1016.52,1016.52
+2024-08-10,Male,64,T-Shirt,Clothing,4,89.69,358.76
+2024-08-11,Female,45,Perfume,Beauty,2,174.31,348.62
+2024-08-11,Female,52,Dress,Clothing,2,164.47,328.94
+2024-08-12,Female,25,T-Shirt,Clothing,2,234.05,468.1
+2024-08-13,Male,33,Football,Sports,1,243.11,243.11
+2024-08-14,Male,59,Running Shoes,Sports,3,121.39,364.17
+2024-08-14,Female,53,Shampoo,Beauty,2,72.9,145.8
+2024-08-15,Female,47,Lipstick,Beauty,1,103.58,103.58
+2024-08-16,Male,35,Perfume,Beauty,4,144.3,577.2
+2024-08-17,Female,19,Tablet,Electronics,5,449.78,2248.9
+2024-08-17,Female,30,Jacket,Clothing,1,153.34,153.34
+2024-08-18,Female,21,Headphones,Electronics,5,480.19,2400.95
+2024-08-19,Female,43,Jeans,Clothing,2,207.63,415.26
+2024-08-20,Male,42,Perfume,Beauty,2,89.34,178.68
+2024-08-20,Male,47,Dress,Clothing,1,37.65,37.65
+2024-08-21,Male,28,Running Shoes,Sports,5,74.8,374.0
+2024-08-22,Female,24,Running Shoes,Sports,2,40.16,80.32
+2024-08-22,Male,48,Vacuum Cleaner,Home & Kitchen,4,264.67,1058.68
+2024-08-23,Male,61,Perfume,Beauty,3,28.08,84.24
+2024-08-24,Male,27,Cookware Set,Home & Kitchen,3,83.65,250.95
+2024-08-25,Female,56,Headphones,Electronics,2,1135.15,2270.3
+2024-08-25,Female,30,Cookware Set,Home & Kitchen,5,440.15,2200.75
+2024-08-26,Male,48,Smartwatch,Electronics,2,597.3,1194.6
+2024-08-27,Male,24,Blender,Home & Kitchen,5,493.33,2466.65
+2024-08-28,Female,59,Shoes,Clothing,4,20.04,80.16
+2024-08-28,Male,59,Coffee Maker,Home & Kitchen,5,318.57,1592.85
+2024-08-29,Male,53,Dumbbells,Sports,2,223.42,446.84
+2024-08-30,Male,37,Smartphone,Electronics,4,603.19,2412.76
+2024-08-30,Male,21,T-Shirt,Clothing,1,111.3,111.3
+2024-08-31,Male,24,Tennis Racket,Sports,3,170.28,510.84
+2024-09-01,Female,18,Jeans,Clothing,2,115.44,230.88
+2024-09-02,Male,61,Cookware Set,Home & Kitchen,2,373.33,746.66
+2024-09-02,Female,62,Face Cream,Beauty,2,33.01,66.02
+2024-09-03,Male,59,Dress,Clothing,4,65.46,261.84
+2024-09-04,Female,64,Shoes,Clothing,1,61.52,61.52
+2024-09-05,Female,30,Tablet,Electronics,5,388.72,1943.6
+2024-09-05,Male,39,Lamp,Home & Kitchen,1,276.87,276.87
+2024-09-06,Female,38,Jeans,Clothing,4,45.58,182.32
+2024-09-07,Male,39,Face Cream,Beauty,2,157.59,315.18
+2024-09-08,Female,45,Jacket,Clothing,3,88.39,265.17
+2024-09-08,Male,26,Lipstick,Beauty,2,37.63,75.26
+2024-09-09,Male,43,Lamp,Home & Kitchen,5,347.54,1737.7
+2024-09-10,Male,26,Running Shoes,Sports,3,32.57,97.71
+2024-09-10,Female,32,Shoes,Clothing,2,162.59,325.18
+2024-09-11,Female,27,Lamp,Home & Kitchen,3,358.15,1074.45
+2024-09-12,Female,41,Coffee Maker,Home & Kitchen,1,131.01,131.01
+2024-09-13,Male,59,Shampoo,Beauty,4,17.13,68.52
+2024-09-13,Female,25,Running Shoes,Sports,2,140.0,280.0
+2024-09-14,Male,41,Laptop,Electronics,5,208.45,1042.25
+2024-09-15,Female,33,Headphones,Electronics,1,228.13,228.13
+2024-09-16,Male,43,Lamp,Home & Kitchen,2,149.5,299.0
+2024-09-16,Male,44,Jacket,Clothing,1,87.96,87.96
+2024-09-17,Male,54,Cookware Set,Home & Kitchen,5,279.09,1395.45
+2024-09-18,Male,21,Football,Sports,2,243.87,487.74
+2024-09-18,Female,41,Smartphone,Electronics,5,752.05,3760.25
+2024-09-19,Male,36,Dumbbells,Sports,3,68.96,206.88
+2024-09-20,Female,53,Shoes,Clothing,5,59.58,297.9
+2024-09-21,Male,56,Skincare Set,Beauty,3,159.39,478.17
+2024-09-21,Female,27,Face Cream,Beauty,2,104.92,209.84
+2024-09-22,Male,42,Football,Sports,3,307.08,921.24
+2024-09-23,Male,35,Smartwatch,Electronics,2,508.7,1017.4
+2024-09-24,Female,36,T-Shirt,Clothing,2,161.31,322.62
+2024-09-24,Male,53,Skincare Set,Beauty,4,99.02,396.08
+2024-09-25,Male,27,Cookware Set,Home & Kitchen,2,179.99,359.98
+2024-09-26,Female,50,Face Cream,Beauty,3,89.89,269.67
+2024-09-27,Female,22,Tablet,Electronics,4,652.74,2610.96
+2024-09-27,Male,64,Jeans,Clothing,4,66.18,264.72
+2024-09-28,Male,52,Shoes,Clothing,2,92.45,184.9
+2024-09-29,Female,61,Blender,Home & Kitchen,5,401.96,2009.8
+2024-09-29,Male,51,Jacket,Clothing,5,230.63,1153.15
+2024-09-30,Male,50,Tablet,Electronics,4,495.77,1983.08
+2024-10-01,Male,38,Running Shoes,Sports,2,121.3,242.6
+2024-10-02,Female,34,Smartwatch,Electronics,5,314.72,1573.6
+2024-10-02,Female,39,Tennis Racket,Sports,2,243.9,487.8
+2024-10-03,Male,65,Lipstick,Beauty,2,64.93,129.86
+2024-10-04,Male,54,Coffee Maker,Home & Kitchen,4,494.24,1976.96
+2024-10-05,Male,32,T-Shirt,Clothing,4,94.91,379.64
+2024-10-05,Female,52,Smartwatch,Electronics,1,533.55,533.55
+2024-10-06,Male,45,Vacuum Cleaner,Home & Kitchen,5,313.57,1567.85
+2024-10-07,Male,24,Cookware Set,Home & Kitchen,5,406.79,2033.95
+2024-10-07,Female,49,Blender,Home & Kitchen,5,250.67,1253.35
+2024-10-08,Male,28,Headphones,Electronics,3,564.92,1694.76
+2024-10-09,Female,27,Vacuum Cleaner,Home & Kitchen,2,497.95,995.9
+2024-10-10,Male,26,Cookware Set,Home & Kitchen,4,34.93,139.72
+2024-10-10,Male,31,Shampoo,Beauty,5,162.16,810.8
+2024-10-11,Male,30,Cookware Set,Home & Kitchen,1,100.1,100.1
+2024-10-12,Female,42,Vacuum Cleaner,Home & Kitchen,5,399.38,1996.9
+2024-10-13,Female,19,Face Cream,Beauty,2,115.05,230.1
+2024-10-13,Female,52,Laptop,Electronics,2,476.03,952.06
+2024-10-14,Male,24,Shoes,Clothing,4,220.99,883.96
+2024-10-15,Female,38,Laptop,Electronics,3,114.2,342.6
+2024-10-16,Male,35,Dress,Clothing,4,72.14,288.56
+2024-10-16,Male,20,Dress,Clothing,5,150.39,751.95
+2024-10-17,Female,59,Headphones,Electronics,1,486.7,486.7
+2024-10-18,Male,56,Jacket,Clothing,4,160.39,641.56
+2024-10-18,Male,58,Smartphone,Electronics,3,126.52,379.56
+2024-10-19,Male,28,Vacuum Cleaner,Home & Kitchen,4,84.74,338.96
+2024-10-20,Male,56,Running Shoes,Sports,2,61.94,123.88
+2024-10-21,Male,41,Laptop,Electronics,5,308.21,1541.05
+2024-10-21,Female,63,Dumbbells,Sports,5,171.58,857.9
+2024-10-22,Male,36,Skincare Set,Beauty,5,137.86,689.3
+2024-10-23,Female,21,Shoes,Clothing,5,228.27,1141.35
+2024-10-24,Female,43,Headphones,Electronics,5,1018.91,5094.55
+2024-10-24,Male,55,Perfume,Beauty,5,43.47,217.35
+2024-10-25,Male,59,Cookware Set,Home & Kitchen,1,237.34,237.34
+2024-10-26,Male,49,Cookware Set,Home & Kitchen,3,123.72,371.16
+2024-10-26,Female,56,Laptop,Electronics,5,390.92,1954.6
+2024-10-27,Male,62,Smartwatch,Electronics,3,653.9,1961.7
+2024-10-28,Female,63,Jacket,Clothing,5,35.67,178.35
+2024-10-29,Male,53,Jeans,Clothing,4,70.18,280.72
+2024-10-29,Female,57,Jeans,Clothing,5,235.14,1175.7
+2024-10-30,Male,54,T-Shirt,Clothing,2,127.21,254.42
+2024-10-31,Male,50,Blender,Home & Kitchen,1,239.33,239.33
+2024-11-01,Female,53,Running Shoes,Sports,4,24.81,99.24
+2024-11-01,Female,20,Jacket,Clothing,4,76.9,307.6
+2024-11-02,Male,26,Tennis Racket,Sports,2,305.88,611.76
+2024-11-03,Female,25,T-Shirt,Clothing,5,57.86,289.3
+2024-11-04,Female,50,Dress,Clothing,1,115.48,115.48
+2024-11-04,Female,23,Shoes,Clothing,4,23.3,93.2
+2024-11-05,Female,58,Face Cream,Beauty,1,91.32,91.32
+2024-11-06,Male,56,Yoga Mat,Sports,4,26.94,107.76
+2024-11-06,Male,21,Face Cream,Beauty,5,149.33,746.65
+2024-11-07,Male,30,Jacket,Clothing,4,209.72,838.88
+2024-11-08,Female,19,Shampoo,Beauty,4,143.92,575.68
+2024-11-09,Female,22,Laptop,Electronics,3,411.7,1235.1
+2024-11-09,Male,61,Tennis Racket,Sports,5,296.29,1481.45
+2024-11-10,Male,44,Shampoo,Beauty,2,102.31,204.62
+2024-11-11,Female,49,Shoes,Clothing,2,105.98,211.96
+2024-11-12,Female,38,Skincare Set,Beauty,5,116.31,581.55
+2024-11-12,Female,25,Face Cream,Beauty,2,12.1,24.2
+2024-11-13,Male,55,Smartwatch,Electronics,5,257.26,1286.3
+2024-11-14,Male,25,Shampoo,Beauty,2,136.19,272.38
+2024-11-14,Male,20,T-Shirt,Clothing,3,76.16,228.48
+2024-11-15,Female,61,Coffee Maker,Home & Kitchen,2,311.06,622.12
+2024-11-16,Male,20,Blender,Home & Kitchen,4,211.0,844.0
+2024-11-17,Female,39,Vacuum Cleaner,Home & Kitchen,5,431.76,2158.8
+2024-11-17,Male,23,Face Cream,Beauty,1,171.91,171.91
+2024-11-18,Female,19,Face Cream,Beauty,1,160.21,160.21
+2024-11-19,Female,40,Headphones,Electronics,5,397.68,1988.4
+2024-11-20,Female,61,Vacuum Cleaner,Home & Kitchen,3,121.26,363.78
+2024-11-20,Male,19,Shoes,Clothing,2,129.12,258.24
+2024-11-21,Male,55,Jeans,Clothing,3,21.69,65.07
+2024-11-22,Male,34,T-Shirt,Clothing,1,25.94,25.94
+2024-11-23,Female,52,Headphones,Electronics,5,708.62,3543.1
+2024-11-23,Female,51,Face Cream,Beauty,5,98.48,492.4
+2024-11-24,Female,40,Tablet,Electronics,3,1194.04,3582.12
+2024-11-25,Female,47,Cookware Set,Home & Kitchen,3,124.87,374.61
+2024-11-25,Female,25,Jeans,Clothing,2,79.36,158.72
+2024-11-26,Male,39,Headphones,Electronics,4,224.89,899.56
+2024-11-27,Female,61,Perfume,Beauty,4,165.98,663.92
+2024-11-28,Male,53,Tablet,Electronics,2,955.59,1911.18
+2024-11-28,Male,22,Jacket,Clothing,4,209.14,836.56
+2024-11-29,Female,30,Coffee Maker,Home & Kitchen,1,454.3,454.3
+2024-11-30,Male,46,Smartwatch,Electronics,4,677.39,2709.56
+2024-12-01,Male,48,Lamp,Home & Kitchen,2,242.06,484.12
+2024-12-01,Female,64,Tablet,Electronics,4,463.43,1853.72
+2024-12-02,Male,33,Jacket,Clothing,5,155.52,777.6
+2024-12-03,Female,59,Vacuum Cleaner,Home & Kitchen,3,243.51,730.53
+2024-12-03,Male,47,Jeans,Clothing,1,123.86,123.86
+2024-12-04,Male,33,Headphones,Electronics,5,1130.62,5653.1
+2024-12-05,Male,29,Dress,Clothing,5,246.33,1231.65
+2024-12-06,Male,34,Jacket,Clothing,2,203.19,406.38
+2024-12-06,Female,33,Lamp,Home & Kitchen,3,385.68,1157.04
+2024-12-07,Male,29,Dress,Clothing,3,176.53,529.59
+2024-12-08,Female,25,Vacuum Cleaner,Home & Kitchen,1,108.06,108.06
+2024-12-09,Male,37,Football,Sports,2,39.5,79.0
+2024-12-09,Female,20,Jacket,Clothing,1,178.87,178.87
+2024-12-10,Female,33,Dumbbells,Sports,4,260.5,1042.0
+2024-12-11,Female,47,Jacket,Clothing,5,30.8,154.0
+2024-12-12,Male,62,Running Shoes,Sports,1,326.26,326.26
+2024-12-12,Male,40,Tablet,Electronics,5,200.25,1001.25
+2024-12-13,Male,45,Lipstick,Beauty,2,58.6,117.2
+2024-12-14,Female,57,Jacket,Clothing,4,174.65,698.6
+2024-12-14,Male,22,Shoes,Clothing,2,59.07,118.14
+2024-12-15,Female,37,Face Cream,Beauty,4,19.42,77.68
+2024-12-16,Female,57,Lamp,Home & Kitchen,4,185.64,742.56
+2024-12-17,Male,61,Laptop,Electronics,5,942.57,4712.85
+2024-12-17,Female,18,Smartphone,Electronics,2,555.05,1110.1
+2024-12-18,Male,47,Coffee Maker,Home & Kitchen,2,336.9,673.8
+2024-12-19,Male,38,Lipstick,Beauty,1,108.54,108.54
+2024-12-20,Female,37,Yoga Mat,Sports,2,27.33,54.66
+2024-12-20,Female,23,Lamp,Home & Kitchen,1,494.61,494.61
+2024-12-21,Female,39,Running Shoes,Sports,3,33.67,101.01
+2024-12-22,Male,35,Vacuum Cleaner,Home & Kitchen,3,484.87,1454.61
+2024-12-22,Male,25,Dress,Clothing,3,146.47,439.41
+2024-12-23,Female,56,Tablet,Electronics,2,1159.47,2318.94
+2024-12-24,Female,49,Cookware Set,Home & Kitchen,2,83.93,167.86
+2024-12-25,Female,50,Lipstick,Beauty,1,93.37,93.37
+2024-12-25,Male,33,Smartphone,Electronics,4,286.45,1145.8
+2024-12-26,Female,29,Shoes,Clothing,1,31.72,31.72
+2024-12-27,Male,55,Tennis Racket,Sports,3,223.78,671.34
+2024-12-28,Male,51,Face Cream,Beauty,1,45.32,45.32
+2024-12-28,Female,31,Jacket,Clothing,4,155.17,620.68
+2024-12-29,Male,53,Jacket,Clothing,2,45.84,91.68
+2024-12-30,Female,50,Laptop,Electronics,1,465.19,465.19
+2024-12-31,Male,40,Jeans,Clothing,3,199.78,599.34
