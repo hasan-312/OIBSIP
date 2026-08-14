@@ -1,4 +1,4 @@
-# 👥 Project 3 — Customer Segmentation Analysis
+# 👥 Project 2 — Customer Segmentation Analysis
 
 **Track:** Data Analytics  
 **Level:** Level 2  
